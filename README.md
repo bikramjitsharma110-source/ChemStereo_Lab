@@ -113,7 +113,7 @@ Current versions of Chrome, Edge, Firefox and Safari on desktop and mobile. WebG
 
 ## How this software was made
 
-The source code and initial explanatory text were generated with the AI assistant Claude (Anthropic), following the specifications and iterative direction of the author, who defined the scope and requirements and is responsible for validating the chemical content.
+The planning and chemistry scope, chemical content was designed by the author. The source code was written with AI assistance from Claude (Anthropic). The author holds the responsibility of accuracy of the code and the chemical content.
 
 ## Licence
 
